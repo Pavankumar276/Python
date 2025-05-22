@@ -1,5 +1,5 @@
 ##Table Printer
-print("Praveen Kumar G R, USN:1AY24AI084, SEC:O")
+print("Pavan kumar, USN:1AY24AI081, SEC:O")
 def print_table(data):
     if not data:
         print("No data to display.")
